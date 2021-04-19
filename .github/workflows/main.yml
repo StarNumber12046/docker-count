@@ -2,7 +2,7 @@ name: docker-marso
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   login:
